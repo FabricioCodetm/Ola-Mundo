@@ -1,2 +1,4 @@
-# Ola Mundo
-Primeiro repositorio versionado ( curso em video Git e Github
+# Olá, Mundo
+Primeiro repositório versionado ( curso em video Git e Github )
+
+Repositorio criado para aprender sobre o uso de Git e Github e sua história!!
